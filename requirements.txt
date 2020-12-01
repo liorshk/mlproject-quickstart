@@ -1,0 +1,14 @@
+category-encoders
+coverage
+datetime
+matplotlib
+mlflow
+numpy
+pandas
+plotly
+pytest
+seaborn
+scikit-learn
+scipy
+statsmodels
+tqdm

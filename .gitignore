@@ -4,6 +4,5 @@ __pycache__/
 .vscode/ 
 catboost_info/ 
 .metaflow 
-data/ 
 *_env/
 condaenv*
